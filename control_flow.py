@@ -40,3 +40,5 @@ elif age >= 18:
 
 else:
     print("oops something has gone wrong, please try again")
+
+# too messy, shorted later
